@@ -1,0 +1,5 @@
+Source Code
+Source code dapat diakses di repository github pada link https://github.com/abiwardani/webgl-fundamentals-rotate
+
+Video
+Video singkat penjelasan “Rotate” dapat ditonton pada link YouTube https://www.youtube.com/watch?v=8MxxqMiQO1k
